@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/x6gebn2kcfw8hcjv/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ahj-6-3-dnd/branch/master)
 
-#### Deployment: 
+#### Deployment: https://sergius92739.github.io/ahj-6.3-dnd/
 
 ### Download Manager (задача со звёздочкой)
 
